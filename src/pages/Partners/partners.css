@@ -1,0 +1,6 @@
+.Partners{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 10rem;
+}

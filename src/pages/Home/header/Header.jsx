@@ -10,7 +10,7 @@ const header = () => {
              
             
             <div className="IntroBox">
-                <p> Founded by Ethan Russell on June 1st 2022, Lone Peak Software Solutions is a company created to helping 
+                <p> Founded by Ethan Russell on a day, Lone Peak Software Solutions is a company created to helping 
                      companies and individuals with their Tech, Marketing, and Graphic Design needs</p>
             </div>
         
